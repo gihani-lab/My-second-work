@@ -5,13 +5,17 @@ body {
   background-size: contain;
   background-position: center;
   background-attachment: fixed;
-  height: 200vh;
+  height: 150vh;
   color: rgb(130, 95, 76);
-  margin: 20mm;
 }
 h1 {
   text-align: center;
   color: rgb(93, 67, 2);
+  border: 5px solid rgb(155, 135, 114);
+  border-radius: 4px;
+  width: 600px;
+  line-height: 30px;
+  margin-left: 10cm;
 }
 
 h2 {
@@ -19,6 +23,5 @@ h2 {
   color: rgb(192, 134, 64);
 }
 p {
-  margin: 20px;
   line-height: 1.8;
 }
